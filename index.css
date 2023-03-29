@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+.bg-container{
+    background-image: url("https://r4.wallpaperflare.com/wallpaper/30/586/460/artwork-fantasy-art-digital-art-forest-wallpaper-3cdadbae5dd4b0ca4dd008fd72d13bf3.jpg");
+    height: 100vh;
+    background-size: cover;
+    font-weight:bold;
+}
+.corner{
+    position: absolute;
+    right: 100px;
+    width:100px;
+}
+.avatar {
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+    border-radius: 25;
+    padding: 5px;
+  }
